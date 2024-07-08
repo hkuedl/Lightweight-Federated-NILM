@@ -22,11 +22,11 @@ To use the provided code, please run `test.ipynb` to obtain the results of the p
 
 > **Note:** Please select dataset and appliance to be tested before use.
 
-# REFIT/REDD dataset
+```bash
 dataset = 'dataset/REFIT/'
 
-# choose target appliance, REFIT (Fridge, Washing, Dish, Microwave, Kettle)
 appliance = 'Fridge'
+```
 
 ## Experimental results
 
