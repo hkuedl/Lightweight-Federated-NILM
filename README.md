@@ -33,10 +33,12 @@ Enable resource-constrained smart meters to execute accurate on-device NILM!
 
 - Performance comparison
 
-![content](figures/performance_evaluation.png)
+![content](figures/performance_comparison.png)
 
 - Model Effectiveness
 
+REFIT
 ![content](figures/House_comparison_REFIT.png)
 
+REDD
 ![content](figures/House_comparison_REDD.png)
