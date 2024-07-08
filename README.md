@@ -9,5 +9,8 @@ Non-intrusive load monitoring (NILM) is a critical technology to disaggregate ap
 ## Dataset
 
 The current version supports the following datasets and tasks are saved in `dataset`:
+
+```bash
 - REFIT - appliance-level power consumption of 20 houses in UK with a time resolution of 8 seconds.
 - REDD  - appliance-level power consumption of 6 houses in USA with a time resolution of 3 seconds.
+```
