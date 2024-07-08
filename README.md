@@ -31,14 +31,16 @@ appliance = 'Fridge'
 
 Enable resource-constrained smart meters to execute accurate on-device NILM!
 
-- Performance comparison
+### Performance comparison
 
 ![content](figures/performance_comparison.png)
 
-- Model Effectiveness
+### Model Effectiveness
 
-REFIT
-![content](figures/House_comparison_REFIT.png)
+-Different houses in REFIT dataset
 
-REDD
-![content](figures/House_comparison_REDD.png)
+![content](figures/house_comparison_REFIT.png)
+
+-Different houses in REDD dataset
+
+![content](figures/house_comparison_REDD.png)
