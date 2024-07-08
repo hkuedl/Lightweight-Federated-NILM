@@ -24,7 +24,6 @@ To use the provided code, please run `test.ipynb` to obtain the results of the p
 
 ```bash
 dataset = 'dataset/REFIT/'
-
 appliance = 'Fridge'
 ```
 
