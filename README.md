@@ -1,6 +1,6 @@
-# Lightweight_Federated_NILM
+# Lightweight-Federated-NILM
 
-This is the codebase for our paper "Lightweight Federated Learning for On-Device Non-intrusive Load Monitoring".
+Code for Paper "Lightweight Federated Learning for On-Device Non-intrusive Load Monitoring".
 
 ## Overview
 
